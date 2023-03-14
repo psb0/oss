@@ -1,3 +1,8 @@
 # oss
 
-OSS repository
+## Syntax
+
+OSS repository[^n]
+
+[link](https://)
+(`:joy:` -> :joy:)
