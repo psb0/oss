@@ -7,5 +7,5 @@ OSS repository
 [link](https://)
 (`:joy:` -> :joy:)
 
-commit
-Markdown
+makrdown
+oss
