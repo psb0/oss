@@ -2,9 +2,7 @@
 
 ## Syntax
 
-OSS repository
+OSS
 
 [link](https://)
 (`:joy:` -> :joy:)
-
-s
