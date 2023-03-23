@@ -4,6 +4,6 @@
 
 OSS study
 
-[link](https://)
+[link](https://student.donga.ac.kr/main.aspx)
 
 (`:joy:` -> :joy:)
