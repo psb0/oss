@@ -1,4 +1,5 @@
 ```python
+me = 'psb'
 energy = 0
 _HP = 0
 
