@@ -5,4 +5,7 @@ _HP = 0
 
 print("hello world")
 print("i wanna go home")
+
+if(energy == 0):
+ 
 ```
