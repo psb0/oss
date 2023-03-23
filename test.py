@@ -1,5 +1,6 @@
 ```python
 me = 'psb'
+pos = 'somewhere'
 energy = 0
 _HP = 0
 
