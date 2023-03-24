@@ -13,4 +13,4 @@ OSS study
 >blockquote text
 
 - [x] Done
-- [o] To do
+- [ ] To do
