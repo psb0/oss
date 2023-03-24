@@ -12,5 +12,5 @@ OSS study
 
 >blockquote text
 
--[x]done
--[o]to do
+- [x]done
+- [o]to do
