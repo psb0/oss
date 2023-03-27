@@ -1,5 +1,3 @@
-me = 'psb'
-pos = 'somewhere'
 energy = 0
 hp = 0
 
