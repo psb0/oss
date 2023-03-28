@@ -8,5 +8,5 @@ if(energy == 0):
 else(hp == 0):
  print("you should take a rest")
 
-Name = "홍길동"
-print(Name)
+name = "홍길동"
+print(name)
