@@ -8,5 +8,5 @@ if(energy == 0):
 else(hp == 0):
  print("you should take a rest")
 
-name = "홍길동"
-print(name)
+def hanoi(n):
+    return 2**1 - 1
