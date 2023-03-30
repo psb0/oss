@@ -10,3 +10,6 @@ else(hp == 0):
 
 def hanoi_n(n):
     return 2**1 - 1
+
+def sum(a, b):
+    return a+b
