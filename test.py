@@ -8,5 +8,5 @@ if(energy == 0):
 else(hp == 0):
     print("you should take a rest")
 
-def hanoi(n):
+def hanoi_n(n):
     return 2**1 - 1
