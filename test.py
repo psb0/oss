@@ -13,3 +13,6 @@ def hanoi_n(n):
 
 def sum(a, b):
     return a+b
+
+def sub(a, b):
+    return a-b
