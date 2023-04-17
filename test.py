@@ -14,5 +14,5 @@ def hanoi_n(n):
 def add(a, b):
     return a+b
 
-def sub(a, b):
+def subtract(a, b):
     return a-b
